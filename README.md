@@ -9,21 +9,21 @@
 |    Barbara Gonçalves    | 2018295452 |            Requisitos            |
 |      Dinis Carvalho     | 2018278118 |          Desenvolvimento         |
 | Diogo Ferreira Sobreira | 2018294861 |             Ambiente             |
-|       Duarte Dias       | 2018293526 |          Desenvolvimento         |
+|       Duarte Dias       | 2018293526 |            Requisitos            |
 |    Francisca Calisto    | 2018290275 |            Requisitos            |
 |     Francisca Sousa     | 2018279514 |              Gestão              |
 |   Francisco Fernandes   | 2018278239 |          Desenvolvimento         |
 |    Gabriel Fernandes    | 2018288117 |          Desenvolvimento         |
-|       João Antunes      | 2018287319 |          Desenvolvimento         |
+|       João Antunes      | 2018287319 |            Requisitos            |
 | João Oliveira das Neves | 2018287319 |          Desenvolvimento         |
 |        João Cruz        | 2018288464 |            Requisitos            |
 |  João Pimentel Teixeira | 2018278532 | Team co-Leader (Desenvolvimento) |
 |      José Esperança     | 2018278596 |          Desenvolvimento         |
-|         Marcelo         | 2017279510 |          Desenvolvimento          |
+|         Marcelo         | 2017279510 |          Desenvolvimento         |
 |    Maria Paula Viegas   | 2017125592 |              Gestão              |
 |      Mariana Loreto     | 2018280762 |          Desenvolvimento         |
 |       Mário Daniel      | 2018272507 |          Desenvolvimento         |
-|      Miguel Rabuge      | 2018293728 |          Desenvolvimento         |
+|      Miguel Rabuge      | 2018293728 |            Requisitos            |
 |        Nuno Tiago       | 2017276208 |             Ambiente             |
 |     Pedro Rodrigues     | 2018283166 |   Team Leader (Desenvolvimento)  |
 |     Rafael Baptista     | 2018277007 |              Gestão              |
