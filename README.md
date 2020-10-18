@@ -4,7 +4,7 @@
 
 |           Name          |   Number   |               Role               |
 |:-----------------------:|:----------:|:--------------------------------:|
-|   Ana Beatriz Marques   | 2018274233 |     Project Manager (Gestão)     |
+|   Ana Beatriz Marques   | 2018274233 |              Gestão              |
 |       André Silva       | 2018277921 |            Requisitos            |
 |    Barbara Gonçalves    | 2018295452 |            Requisitos            |
 |      Dinis Carvalho     | 2018278118 |          Desenvolvimento         |
@@ -17,7 +17,7 @@
 |       João Antunes      | 2018287319 |          Desenvolvimento         |
 | João Oliveira das Neves | 2018287319 |          Desenvolvimento         |
 |        João Cruz        | 2018288464 |            Requisitos            |
-|  João Pimentel Teixeira | 2018278532 | Team co-Leader (Desenvolvimento) |
+|  João Pimentel Teixeira | 2018278532 |          Desenvolvimento         |
 |      José Esperança     | 2018278596 |          Desenvolvimento         |
 |         Marcelo         | 2017279510 |          Desenvolvimento         |
 |    Maria Paula Viegas   | 2017125592 |              Gestão              |
@@ -25,8 +25,16 @@
 |       Mário Daniel      | 2018272507 |          Desenvolvimento         |
 |      Miguel Rabuge      | 2018293728 |            Requisitos            |
 |        Nuno Tiago       | 2017276208 |             Ambiente             |
-|     Pedro Rodrigues     | 2018283166 |   Team Leader (Desenvolvimento)  |
+|     Pedro Rodrigues     | 2018283166 |          Desenvolvimento         |
 |     Rafael Baptista     | 2018277007 |              Gestão              |
+
+- Pedro Rodrigues: Team Leader
+- João Teixeira: Team Co-Leader / Development Leader
+- Ana Beatriz Marques:Team Project Manager / Management Leader
+- Francisca Calisto: Requirements Leader
+- Diogo Sobreira: Environment Leader
+
+
 
 ## Project Structure
 
