@@ -13,8 +13,8 @@
 |    Francisca Calisto    | 2018290275 |            Requisitos            |
 |     Francisca Sousa     | 2018279514 |              Gestão              |
 |   Francisco Fernandes   | 2018278239 |          Desenvolvimento         |
-|    Gabriel Fernandes    | 2018288117 |          Desenvolvimento         |
-|       João Antunes      | 2018287319 |            Requisitos            |
+|    Gabriel Fernandes    | 2018288117 |            Requisitos            |
+|       João Antunes      | 2018287319 |          Desenvolvimento         |
 | João Oliveira das Neves | 2018287319 |          Desenvolvimento         |
 |        João Cruz        | 2018288464 |            Requisitos            |
 |  João Pimentel Teixeira | 2018278532 | Team co-Leader (Desenvolvimento) |
