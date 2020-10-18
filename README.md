@@ -19,7 +19,7 @@
 |        João Cruz        | 2018288464 |            Requisitos            |
 |  João Pimentel Teixeira | 2018278532 | Team co-Leader (Desenvolvimento) |
 |      José Esperança     | 2018278596 |          Desenvolvimento         |
-|         Marcelo         | 2017279510 |                Dev               |
+|         Marcelo         | 2017279510 |          Desenvolviento          |
 |    Maria Paula Viegas   | 2017125592 |              Gestão              |
 |      Mariana Loreto     | 2018280762 |          Desenvolvimento         |
 |       Mário Daniel      | 2018272507 |          Desenvolvimento         |
