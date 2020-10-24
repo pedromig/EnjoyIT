@@ -15,13 +15,13 @@
 |   Francisco Fernandes   | 2018278239 |          Desenvolvimento         |
 |    Gabriel Fernandes    | 2018288117 |            Requisitos            |
 |       João Antunes      | 2018287319 |          Desenvolvimento         |
-| João Oliveira das Neves | 2018287319 |          Desenvolvimento         |
+| João Oliveira das Neves | 2009128467 |             Qualidade            |
 |        João Cruz        | 2018288464 |            Requisitos            |
 |  João Pimentel Teixeira | 2018278532 |          Desenvolvimento         |
 |      José Esperança     | 2018278596 |          Desenvolvimento         |
-|         Marcelo         | 2017279510 |          Desenvolvimento         |
+|         Marcelo         | 2017279510 |             Qualidade            |
 |    Maria Paula Viegas   | 2017125592 |              Gestão              |
-|      Mariana Loreto     | 2018280762 |          Desenvolvimento         |
+|      Mariana Loreto     | 2018280762 |             Qualidade            |
 |       Mário Daniel      | 2018272507 |          Desenvolvimento         |
 |      Miguel Rabuge      | 2018293728 |            Requisitos            |
 |        Nuno Tiago       | 2017276208 |             Ambiente             |
