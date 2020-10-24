@@ -1,4 +1,6 @@
-#   EnjoyIt-PL3 
+﻿#   EnjoyIt-PL3 
+
+https://docs.google.com/spreadsheets/d/1TovswjuGr9TO_IrprUojyrhq8Atcfj7urbwEft0tnbE/edit
 
 ##  Team 
 
@@ -22,7 +24,7 @@
 |         Marcelo         | 2017279510 |             Qualidade            |
 |    Maria Paula Viegas   | 2017125592 |              Gestão              |
 |      Mariana Loreto     | 2018280762 |             Qualidade            |
-|       Mário Daniel      | 2018272507 |          Desenvolvimento         |
+|       Mário Daniel      | 2018272507 |          Ambiente         |
 |      Miguel Rabuge      | 2018293728 |            Requisitos            |
 |        Nuno Tiago       | 2017276208 |             Ambiente             |
 |     Pedro Rodrigues     | 2018283166 |          Desenvolvimento         |
