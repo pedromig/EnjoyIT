@@ -1,8 +1,8 @@
 ﻿#   EnjoyIt-PL3 
 
-https://docs.google.com/spreadsheets/d/1TovswjuGr9TO_IrprUojyrhq8Atcfj7urbwEft0tnbE/edit
-
 ##  Team 
+
+https://docs.google.com/spreadsheets/d/1TovswjuGr9TO_IrprUojyrhq8Atcfj7urbwEft0tnbE/edit
 
 |           Name          |   Number   |               Role               |
 |:-----------------------:|:----------:|:--------------------------------:|
@@ -40,6 +40,10 @@ https://docs.google.com/spreadsheets/d/1TovswjuGr9TO_IrprUojyrhq8Atcfj7urbwEft0t
 
 ## Project Structure
 
+	- Documentos
+		- atas
+		- manual de requisitos
+		- manual de qualidade
  	- Entregáveis
  		- organizados em pastas por sprints (sprint1, sprint2,...)
 	- Gestão de projecto
@@ -51,6 +55,7 @@ https://docs.google.com/spreadsheets/d/1TovswjuGr9TO_IrprUojyrhq8Atcfj7urbwEft0t
 		- plano de projecto
 		- garantias de qualidade
 	- Requisitos
+		- manual de requisitos
 	- Arquitectura
 	- Design detalhado
 	- Testes
