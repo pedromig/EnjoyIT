@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/1TovswjuGr9TO_IrprUojyrhq8Atcfj7urbwEft0t
 
 |           Name         	|   Number   |               Role               |
 |:-----------------------:	|:----------:|:--------------------------------:|
-Ana Beatriz Marques		2018274233	Gestão
+Ana Beatriz Marques		|2018274233	|Gestão
 André Silva	2018277921	Requisitos
 Barbara Gonçalves		2018295452	Requisitos
 Dinis Carvalho			2018278118	Dev
