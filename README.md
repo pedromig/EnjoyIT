@@ -31,9 +31,10 @@ Pedro Rodrigues			|2018283166	|Dev
 Rafael Baptista			|2018277007	|Gestão
 
 - Pedro Rodrigues: Team Leader
-- João Teixeira: Team Co-Leader / Development Leader
+- João Teixeira: Development Leader
 - Francisca Calisto: Requirements Leader
-- Diogo Sobreira: Environment Leader
+- Ana Marques: Management Leader
+- Mariana Loreto: Quality Leader
 
 
 
