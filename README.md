@@ -4,31 +4,31 @@
 
 https://docs.google.com/spreadsheets/d/1TovswjuGr9TO_IrprUojyrhq8Atcfj7urbwEft0tnbE/edit
 
-|           Name          |   Number   |               Role               |
-|:-----------------------:|:----------:|:--------------------------------:|
-Ana Beatriz Marques	2018274233	Gestão
+|           Name         	|   Number   |               Role               |
+|:-----------------------:	|:----------:|:--------------------------------:|
+Ana Beatriz Marques		2018274233	Gestão
 André Silva	2018277921	Requisitos
-Barbara Gonçalves	2018295452	Requisitos
-Dinis Carvalho	2018278118	Dev
-Diogo Ferreira Sobreira	2018294861	Qualidade
-Duarte Dias	2018293526	Requisitos
-Francisca Calisto	2018290275	Requisitos
-Francisca Sousa	2018279514	Gestão
-Francisco Fernandes	2018278239	Dev
-Gabriel Fernandes	2018288117	Requisitos
-João Antunes	2018287319	Dev
-João Oliveira das Neves	2009128467	Qualidade
-João Cruz	2018288464	Requisitos
-João Pimentel Teixeira	2018278532	Dev
-José Esperança	2018278596	Dev
-Marcelo Coelho	2017279510	Gestão
-Maria Paula Viegas	2017125592	Gestão
-Mariana Loreto	2018280762	Qualidade
-Mário Daniel	2018272507	Dev
-Miguel Rabuge	2018293728	Requisitos
-Nuno Tiago	2017276208	Qualidade
-Pedro Rodrigues	2018283166	Dev
-Rafael Baptista	2018277007	Gestão
+Barbara Gonçalves		2018295452	Requisitos
+Dinis Carvalho			2018278118	Dev
+Diogo Ferreira Sobreira		2018294861	Qualidade
+Duarte Dias			2018293526	Requisitos
+Francisca Calisto		2018290275	Requisitos
+Francisca Sousa			2018279514	Gestão
+Francisco Fernandes		2018278239	Dev
+Gabriel Fernandes		2018288117	Requisitos
+João Antunes			2018287319	Dev
+João Oliveira das Neves		2009128467	Qualidade
+João Cruz			2018288464	Requisitos
+João Pimentel Teixeira		2018278532	Dev
+José Esperança			2018278596	Dev
+Marcelo Coelho			2017279510	Gestão
+Maria Paula Viegas		2017125592	Gestão
+Mariana Loreto			2018280762	Qualidade
+Mário Daniel			2018272507	Dev
+Miguel Rabuge			2018293728	Requisitos
+Nuno Tiago			2017276208	Qualidade
+Pedro Rodrigues			2018283166	Dev
+Rafael Baptista			2018277007	Gestão
 
 - Pedro Rodrigues: Team Leader
 - João Teixeira: Team Co-Leader / Development Leader
